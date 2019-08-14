@@ -1,4 +1,4 @@
-CXX = g++-5
+CXX = g++
 CXXFLAGS = -std=c++14 -Wall -Werror=vla -MMD
 EXEC = cc3k
 MAINOBJ = main.o game.o floor.o chamber.o textdisplay.o
