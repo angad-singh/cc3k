@@ -9,7 +9,7 @@ Once `make` finishes building all the files,  user should be able to start the g
 ## Gameplay
 The objective of the game is to cross 5 floors to reach victory and score as many points as possible by collecting gold. Gold is represented by `G` on the board and can be picked up by the user by walking on to that cell. You character is represented on the board by `@` symbol. After every move the status at the bottom will describe what action just happened. The potions, denoted by `P` and gold does not move but the computer generated characters can move randomly within one block of their original position in any direction. 
 
-![Gold](https://github.com/angad-singh/cc3k/images/gold.png)
+![Gold](https://raw.githubusercontent.com/angad-singh/cc3k/master/images/gold.png)
 
 Portal to the next floor is represented by  `\` on the board. Users can walk into it to advance to the next level.
 
