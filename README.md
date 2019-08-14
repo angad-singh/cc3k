@@ -1,4 +1,4 @@
- ChamberCrawler3000
+# ChamberCrawler3000
 
 Group project for second year CS course (CS246) at the University of Waterloo. This repo is not  actively maintained. Group members included Angad Singh, Lizhong Bi and Tianli Zhan. 
 
